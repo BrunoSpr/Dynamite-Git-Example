@@ -1,2 +1,4 @@
 # Dynamite-Git-Example
-throwaway repo 
+throwaway repo
+
+Let's learn git basics together
